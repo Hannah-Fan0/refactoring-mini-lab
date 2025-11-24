@@ -1,2 +1,3 @@
-7ff263b (HEAD -> main, origin/main, origin/HEAD) finishing Task 1.1
+2d395b6 (HEAD -> main, origin/main, origin/HEAD) finishing Task 1.2
+7ff263b finishing Task 1.1
 ef66cc2 Initial commit
